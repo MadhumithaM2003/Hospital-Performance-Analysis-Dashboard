@@ -97,7 +97,7 @@ Through this project, I gained practical experience in:
 
 🖥️ Dashboard Preview
 
-![Hospital-Performance-Analysis-Dashboard](dashboard.png)
+![Hospital-Performance-Analysis-Dashboard](Dashboard.png)
 
 📁 Project Structure
 
@@ -107,7 +107,7 @@ Hospital-Performance-Analysis/
 │
 │   └── Hospital_Analytics_Dashboard.pbix
 │
-│   └── dashboard.png
+│   └── Dashboard.png
 │
 └── README.md
 ```
